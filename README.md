@@ -35,309 +35,315 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-[The courte of vertue.]Hall, John, b. 1529 or 30.1565Approx. 434 KB of XML-encoded text transcribed 
+
+1. The Prologue
+
 #####Body#####
 
-1. ¶ The prayſe of vertue.
+1. The Courte of Vertue.
 
-1. ¶ The prayſe of faithe. Hebre. 11.
+    _ ¶ The prayſe of vertue.
 
-1. ¶ The prayſe of hope, out of many places of ſcripture.
+    _ ¶ The prayſe of faithe. Hebre. 11.
 
-1. ¶ The prayſe of Godly loue or charitie out of 1. Cor. 13. & Iohn. 4.
+    _ ¶ The prayſe of hope, out of many places of ſcripture.
 
-1. ¶ The prayſe of Godly wyſdome out of the booke of wyſdome, called Sapientia. cap. vi.
+    _ ¶ The prayſe of Godly loue or charitie out of 1. Cor. 13. & Iohn. 4.
 
-1. ¶ An example of a contemplatiue minde in the ſeruice of God, out of the xxv. Pſalme.
+    _ ¶ The prayſe of Godly wyſdome out of the booke of wyſdome, called Sapientia. cap. vi.
 
-1. Ad te dominum leuaui.
+    _ ¶ An example of a contemplatiue minde in the ſeruice of God, out of the xxv. Pſalme.
 
-1. ¶ An example how that we ſhould alwayes be thankefull vnto almighty God for his benefites, out of the xxxiiii. pſalme of Dauid.
+    _ Ad te dominum leuaui.
 
-1. Benedicam dominum.
+    _ ¶ An example how that we ſhould alwayes be thankefull vnto almighty God for his benefites, out of the xxxiiii. pſalme of Dauid.
 
-1. ¶ An example that God heareth all ſuche prayers as are made with a faithfull harte, out of the .liiii. Pſalme.
+    _ Benedicam dominum.
 
-1. Deus in nomine tuo.
+    _ ¶ An example that God heareth all ſuche prayers as are made with a faithfull harte, out of the .liiii. Pſalme.
 
-1. ¶ An example that the thankefull age gaue prayſe to god, for al his benefites geuen to his creatures, out of the lxv. Pſalme of Dauid.
+    _ Deus in nomine tuo.
 
-1. Te decet hymnus deus in Sion.
+    _ ¶ An example that the thankefull age gaue prayſe to god, for al his benefites geuen to his creatures, out of the lxv. Pſalme of Dauid.
 
-1. ¶ An example howe happye and bleſſed they are that faythfully feare god, out of the .Cxii. Pſalme.
+    _ Te decet hymnus deus in Sion.
 
-1. Beatus vir qui timet.
+    _ ¶ An example howe happye and bleſſed they are that faythfully feare god, out of the .Cxii. Pſalme.
 
-1. ¶ An example of the prayſe of God, for his omnipotencie. out of the, Cxiii. Pſalme.
+    _ Beatus vir qui timet.
 
-1. Laudate pueri dominum.
+    _ ¶ An example of the prayſe of God, for his omnipotencie. out of the, Cxiii. Pſalme.
 
-1. ¶ An example how Dauid prayſed God, for his delyueryng of Iſraell, by great miracles, out of Egypt. Out of the .C. xiiii. Pſalme.
+    _ Laudate pueri dominum.
 
-1. In exitu Iſrael de Egypto.
+    _ ¶ An example how Dauid prayſed God, for his delyueryng of Iſraell, by great miracles, out of Egypt. Out of the .C. xiiii. Pſalme.
 
-1. ¶ An example of praier againſt idolatrous tyrātes, that ſet vp falſe worſhip, in the reproche of Gods true worſhyp. Out of the .Cxv. Pſalme.
+    _ In exitu Iſrael de Egypto.
 
-1. Non nobis Domine.
+    _ ¶ An example of praier againſt idolatrous tyrātes, that ſet vp falſe worſhip, in the reproche of Gods true worſhyp. Out of the .Cxv. Pſalme.
 
-1. ¶ An example of prayer from a repentant harte out of the .Cxxx. pſalm.
+    _ Non nobis Domine.
 
-1. De profundis clamaui.
+    _ ¶ An example of prayer from a repentant harte out of the .Cxxx. pſalm.
 
-1. ¶ An example that as wel penitent prayer, as ioyfull thankes and prayſe, haue their due tyme and place, out of the .Cxxxvii. Pſalme.
+    _ De profundis clamaui.
 
-1. Super flumina Babilonis.
+    _ ¶ An example that as wel penitent prayer, as ioyfull thankes and prayſe, haue their due tyme and place, out of the .Cxxxvii. Pſalme.
 
-1. ¶ An example of Gods prayſe, for his great care ouer his elect, in diſapointing their enemies & delyueringe them. out of the .Cxl. Pſalme.
+    _ Super flumina Babilonis.
 
-1. Eripe me domine.
+    _ ¶ An example of Gods prayſe, for his great care ouer his elect, in diſapointing their enemies & delyueringe them. out of the .Cxl. Pſalme.
 
-1. ¶ An example howe to prayſe God for his almyghty powre, and gentylnes. Out of the .Cxlv. Pſalme.
+    _ Eripe me domine.
 
-1. Exaltabo te deus.
+    _ ¶ An example howe to prayſe God for his almyghty powre, and gentylnes. Out of the .Cxlv. Pſalme.
 
-1. ¶ The nynth chapiter of Eccleſiaſticus: or booke of Ieſus the ſonne of Sirach.
+    _ Exaltabo te deus.
 
-1. Eccleſiaſt. Cap. ix.
+    _ ¶ The nynth chapiter of Eccleſiaſticus: or booke of Ieſus the ſonne of Sirach.
 
-1. ¶ The maner of true and perfecte prayer inſtituted by our ſauiour Ieſus Chriſte, the only ſonne of God, the wiſdom of the father, and ſeconde perſon in trinitie.
+    _ Eccleſiaſt. Cap. ix.
 
-1. Pater noſter.
+    _ ¶ The maner of true and perfecte prayer inſtituted by our ſauiour Ieſus Chriſte, the only ſonne of God, the wiſdom of the father, and ſeconde perſon in trinitie.
 
-1. ¶ The abridgement of our Chriſten beleefe, written as ſome ſuppoſe into .xii. Articles, by the .xii. holy apoſtels of our ſauiour Ieſus Chryſte.
+    _ Pater noſter.
 
-1. Credo in deum patrem.
+    _ ¶ The abridgement of our Chriſten beleefe, written as ſome ſuppoſe into .xii. Articles, by the .xii. holy apoſtels of our ſauiour Ieſus Chryſte.
 
-1. ¶ The ſonge of prayſe and thankeſgeuinge of bleſſed Mary the vyrgyn, mother of our lorde and ſauiour Ieſus Chryſt, after the ſalutation of the Angell Gabriell, and of Elizabeth mother of bleſſed Iohn baptiſt. written. Luke the j. Chapter.
+    _ Credo in deum patrem.
 
-1. ¶ The ſonge of prayſe and thankes geuinge of holy Zachary, father of Saynct Iohn baptiſt, beinge reſtored to his ſpeche, whiche was taken from him at the viſion of the angell, written, Luke the fyrſt chap.
+    _ ¶ The ſonge of prayſe and thankeſgeuinge of bleſſed Mary the vyrgyn, mother of our lorde and ſauiour Ieſus Chryſt, after the ſalutation of the Angell Gabriell, and of Elizabeth mother of bleſſed Iohn baptiſt. written. Luke the j. Chapter.
 
-1. ¶ The ſonge of prayſe and thankes geuyng of holy Simeon at the Circumciſyon of our Lorde Ieſu Chryſte. Luke. ij.
+    _ ¶ The ſonge of prayſe and thankes geuinge of holy Zachary, father of Saynct Iohn baptiſt, beinge reſtored to his ſpeche, whiche was taken from him at the viſion of the angell, written, Luke the fyrſt chap.
 
-1. ¶ The r. commaundementes of almighty God written, in ij. tables of ſtone with y• finger of God. The firſt table conteyning iiij preceptes concerneth our duety towardes God: The ſecond table conteyning the other vjpreceptes concerneth our duetye towardes our neyghbour. written in the xx. Chapiter of Exodus, and in the v. Chapiter Deuteronomium.
+    _ ¶ The ſonge of prayſe and thankes geuyng of holy Simeon at the Circumciſyon of our Lorde Ieſu Chryſte. Luke. ij.
 
-1. ¶ The prayſe of God the father ſonne and holye ghoſt. Wrytten in an holy Hymne, by the worthy fathers Auguſtine and Ambroſe.
+    _ ¶ The r. commaundementes of almighty God written, in ij. tables of ſtone with y• finger of God. The firſt table conteyning iiij preceptes concerneth our duety towardes God: The ſecond table conteyning the other vjpreceptes concerneth our duetye towardes our neyghbour. written in the xx. Chapiter of Exodus, and in the v. Chapiter Deuteronomium.
 
-1. ¶ To his friend E. H. at whoſe requeſte, the author drue into metre, the ſonge of the three chyldren, whiche were put into the whot burning ouen, which were called properly in the hebrue tongue, Ananias, Aſarias, & Miſael: whoſe names Nebucadnezer chāged into Cidrach, Miſach, and Abednago, in the Chaldey tongue. Written, Daniel. in.
+    _ ¶ The prayſe of God the father ſonne and holye ghoſt. Wrytten in an holy Hymne, by the worthy fathers Auguſtine and Ambroſe.
 
-1. Benedicite omnia opera Domini domino.
+    _ ¶ To his friend E. H. at whoſe requeſte, the author drue into metre, the ſonge of the three chyldren, whiche were put into the whot burning ouen, which were called properly in the hebrue tongue, Ananias, Aſarias, & Miſael: whoſe names Nebucadnezer chāged into Cidrach, Miſach, and Abednago, in the Chaldey tongue. Written, Daniel. in.
 
-1. Numeri .xiii.
+    _ Benedicite omnia opera Domini domino.
 
-1. ii. Eſdras .i.
+    _ Numeri .xiii.
 
-1. Tobias .xiii.
+    _ ii. Eſdras .i.
 
-1. Tobias .iii.
+    _ Tobias .xiii.
 
-1. Iudith. 16.
+    _ Tobias .iii.
 
-1. Iob .i.
+    _ Iudith. 16.
 
-1. Prouerb. xxx.
+    _ Iob .i.
 
-1. Eccleſiaſticus .xxiii.
+    _ Prouerb. xxx.
 
-1. ¶ The ſonge of Eſechia, Ego dixi in dimidio. &c.
+    _ Eccleſiaſticus .xxiii.
 
-1. Ieremie .ix.
+    _ ¶ The ſonge of Eſechia, Ego dixi in dimidio. &c.
 
-1. Ieremie. 17.
+    _ Ieremie .ix.
 
-1. Ieremie .xxxi.
+    _ Ieremie. 17.
 
-1. ¶ Out of the thirde chapiter of Ieremies lamentations.
+    _ Ieremie .xxxi.
 
-1. Oſeas .xiiii.
+    _ ¶ Out of the thirde chapiter of Ieremies lamentations.
 
-1. Ionas. Cap. ii.
+    _ Oſeas .xiiii.
 
-1. ¶ A conſideration of the vnryghteouſnes of the vayne & miſerable world.
+    _ Ionas. Cap. ii.
 
-1. ¶ A ditie of lamentation againſt the diſſemblyng and hipocriticall falſe dealynge, vſed of moſte folke in theſe dayes: that is to ſaye, holy and honeſt talke, myxed with wicked and vicious dedes.
+    _ ¶ A conſideration of the vnryghteouſnes of the vayne & miſerable world.
 
-1. ¶ A ditie named blame not my lute whiche vnder that title toucheth, replieth, and rebuketh, the wycked ſtate and enormities of moſt people, in theſe preſent miſerable dapes.
+    _ ¶ A ditie of lamentation againſt the diſſemblyng and hipocriticall falſe dealynge, vſed of moſte folke in theſe dayes: that is to ſaye, holy and honeſt talke, myxed with wicked and vicious dedes.
 
-1. ¶ A ſong of the lute in the prayſe of God, and diſprayſe of Idolatrie.
+    _ ¶ A ditie named blame not my lute whiche vnder that title toucheth, replieth, and rebuketh, the wycked ſtate and enormities of moſt people, in theſe preſent miſerable dapes.
 
-1. ¶ A ditie ſhewyng the office of all eſtates: warnyng them to repent, & walke euery eſtate accordyng to their callyng.
+    _ ¶ A ſong of the lute in the prayſe of God, and diſprayſe of Idolatrie.
 
-1. ¶ A Ditie declaringe the daungerous abuſe of all degrees, whyche go aſtraye from theyr vocation.
+    _ ¶ A ditie ſhewyng the office of all eſtates: warnyng them to repent, & walke euery eſtate accordyng to their callyng.
 
-1. ¶ A voyce from heauen to you ſhall come, Venite ad iudicium.
+    _ ¶ A Ditie declaringe the daungerous abuſe of all degrees, whyche go aſtraye from theyr vocation.
 
-1. ¶ Againſt pryde.
+    _ ¶ A voyce from heauen to you ſhall come, Venite ad iudicium.
 
-1. ¶ An inuectiue againſt the moſt hatefull vyce enuy. ¶ Syng this as Let nowe thy power he great O Lorde. &c.
+    _ ¶ Againſt pryde.
 
-1. ¶ Agaynſt ſlouthe. Syng this as, Of Ielouſye who ſo wyll heare.
+    _ ¶ An inuectiue againſt the moſt hatefull vyce enuy. ¶ Syng this as Let nowe thy power he great O Lorde. &c.
 
-1. ¶ A deſcription of auarice.
+    _ ¶ Agaynſt ſlouthe. Syng this as, Of Ielouſye who ſo wyll heare.
 
-1. ¶ A dittie of the pen inueiyng againſt vſury and falſe dealyng.
+    _ ¶ A deſcription of auarice.
 
-1. ¶ An exhortation to wrathfull men. Syng this as, I am the man whom God. &c.
+    _ ¶ A dittie of the pen inueiyng againſt vſury and falſe dealyng.
 
-1. ¶ An Inuectiue agaynſt wrathe▪ Syng thys as, The lyuyng God our only Lorde, that. &c.
+    _ ¶ An exhortation to wrathfull men. Syng this as, I am the man whom God. &c.
 
-1. ¶ Againſt drunkennes and gluttony.
+    _ ¶ An Inuectiue agaynſt wrathe▪ Syng thys as, The lyuyng God our only Lorde, that. &c.
 
-1. ¶ Lecherie rebuked. Syng this as, On tabrets to the Lorde. &c.
+    _ ¶ Againſt drunkennes and gluttony.
 
-1. ¶ An earneſt complaint agaynſte Idolatry. Syng this as, In my trouble and payne.
+    _ ¶ Lecherie rebuked. Syng this as, On tabrets to the Lorde. &c.
 
-1. ¶ An inuectiue againſt ſclanderous tongues.
+    _ ¶ An earneſt complaint agaynſte Idolatry. Syng this as, In my trouble and payne.
 
-1. ¶ A complaint againſt euel tunges
+    _ ¶ An inuectiue againſt ſclanderous tongues.
 
-1. ¶ A ditie made in the tyme of the the ſwearyng plague. Anno. 1552.
+    _ ¶ A complaint againſt euel tunges
 
-1. That vertue excelleth both ryches and beautie.
+    _ ¶ A ditie made in the tyme of the the ſwearyng plague. Anno. 1552.
 
-1. ❧Nomen Authoris.
+    _ That vertue excelleth both ryches and beautie.
 
-1. A godly warnynge to put all men in remembrance of theyr myſerable eſtate, and that they are ſubiecte to death and corruption. Syng this as. It truthe maye take no truſtye holde. &c.
+    _ ❧Nomen Authoris.
 
-1. The faithfull ſouldiour of Chriſte, deſireth aſſiſtance of God againſt his ghoſtly enemies.
+    _ A godly warnynge to put all men in remembrance of theyr myſerable eſtate, and that they are ſubiecte to death and corruption. Syng this as. It truthe maye take no truſtye holde. &c.
 
-1. ¶ An exhortacion to brotherly loue and vnitie.
+    _ The faithfull ſouldiour of Chriſte, deſireth aſſiſtance of God againſt his ghoſtly enemies.
 
-1. The iuſt and true mā complaineth, that flattery and falſhod is more regarded then truthe, and reioyſeth that he is hated for the truthe.
+    _ ¶ An exhortacion to brotherly loue and vnitie.
 
-1. ¶ An holſome warning for all men that beare the name of Chriſtians, to lyue Chriſtianly.
+    _ The iuſt and true mā complaineth, that flattery and falſhod is more regarded then truthe, and reioyſeth that he is hated for the truthe.
 
-1. ¶ A ſhort ſong exhorting all men to abſtayne from the vſe of falſe weyghtes and meaſures.
+    _ ¶ An holſome warning for all men that beare the name of Chriſtians, to lyue Chriſtianly.
 
-1. ¶ A Ditie declarynge the ſted faſt hope and truſt that the faythfull afflicted ſoule hath in Chriſt Ieſu.
+    _ ¶ A ſhort ſong exhorting all men to abſtayne from the vſe of falſe weyghtes and meaſures.
 
-1. ¶ A ſong ſhewing that no commoditie is without a diſcommoditie.
+    _ ¶ A Ditie declarynge the ſted faſt hope and truſt that the faythfull afflicted ſoule hath in Chriſt Ieſu.
 
-1. ¶ The iuſt innocent complayneth on ſclanderous tongues.
+    _ ¶ A ſong ſhewing that no commoditie is without a diſcommoditie.
 
-1. The innocent ſclaundered complaineth praying for the conuertion of his enemies.
+    _ ¶ The iuſt innocent complayneth on ſclanderous tongues.
 
-1. ¶ The complaint of Chriſt our ſauiour agaynſt the Ingratitude of mankynde.
+    _ The innocent ſclaundered complaineth praying for the conuertion of his enemies.
 
-1. ¶ A Ditie warnyng all townes and liberties to choſe theyr gouernours for vertue wyſedom and lernyng: and by all meanes laudable, to kepe from rule the proude enuious and wylfull wycked men: leſt the prince be diſhonored, and they them ſelues abuſed and oppreſſed.
+    _ ¶ The complaint of Chriſt our ſauiour agaynſt the Ingratitude of mankynde.
 
-1. ¶ A briefe deſcription of wyſedom and folly in gouernance.
+    _ ¶ A Ditie warnyng all townes and liberties to choſe theyr gouernours for vertue wyſedom and lernyng: and by all meanes laudable, to kepe from rule the proude enuious and wylfull wycked men: leſt the prince be diſhonored, and they them ſelues abuſed and oppreſſed.
 
-1. ¶ A briefe Deſcription of truthe and falſehode.
+    _ ¶ A briefe deſcription of wyſedom and folly in gouernance.
 
-1. ¶ An exhortation to truthe, fayth and vertue.
+    _ ¶ A briefe Deſcription of truthe and falſehode.
 
-1. ¶ A de ſcription of mans lyfe both in his owne affections and vertues.
+    _ ¶ An exhortation to truthe, fayth and vertue.
 
-1. A frendly aduertiſement.
+    _ ¶ A de ſcription of mans lyfe both in his owne affections and vertues.
 
-1. That ſelfe loue and auarice, weare neuer true friendes.
+    _ A frendly aduertiſement.
 
-1. A deſcription of frendſhip.
+    _ That ſelfe loue and auarice, weare neuer true friendes.
 
-1. An opening of the rude peoples inconſtancie.
+    _ A deſcription of frendſhip.
 
-1. That flattery and ſclaunder are of all wyſe men to be taken hede of.
+    _ An opening of the rude peoples inconſtancie.
 
-1. That a cōſtant mynde is a great pyller of bodily health.
+    _ That flattery and ſclaunder are of all wyſe men to be taken hede of.
 
-1. A commendacion of vertuous exerciſe.
+    _ That a cōſtant mynde is a great pyller of bodily health.
 
-1. Againſt vndecēt buſy medlers in other mens vocation neglecting their owne.
+    _ A commendacion of vertuous exerciſe.
 
-1. Of fortune.
+    _ Againſt vndecēt buſy medlers in other mens vocation neglecting their owne.
 
-1. Or thus out of Iuſtinus.
+    _ Of fortune.
 
-1. Of honor out of Tully.
+    _ Or thus out of Iuſtinus.
 
-1. Of glory.
+    _ Of honor out of Tully.
 
-1. Of vain glory.
+    _ Of glory.
 
-1. ¶ Or thus.
+    _ Of vain glory.
 
-1. Of grace out of S. Bernarde.
+    _ ¶ Or thus.
 
-1. Of temperance out of Plutarche.
+    _ Of grace out of S. Bernarde.
 
-1. Of tale bearers out of ſaynt Hierome.
+    _ Of temperance out of Plutarche.
 
-1. Of virginitie.
+    _ Of tale bearers out of ſaynt Hierome.
 
-1. ¶ Of Arrogancie in ſtudentes.
+    _ Of virginitie.
 
-1. ¶ Of reuerence to age.
+    _ ¶ Of Arrogancie in ſtudentes.
 
-1. ¶ Of truth and falſhode. Truthe doth wyth truth for euer conſent, But falſhode with falſhode nor truth no• content.
+    _ ¶ Of reuerence to age.
 
-1. ¶ Of conſtant temperance.
+    _ ¶ Of truth and falſhode. Truthe doth wyth truth for euer conſent, But falſhode with falſhode nor truth no• content.
 
-1. Of truth and lying.
+    _ ¶ Of conſtant temperance.
 
-1. Of the errors of the common rude multitude.
+    _ Of truth and lying.
 
-1. ¶ Agaynſt vayne apparell, out of Lodouicus Viues.
+    _ Of the errors of the common rude multitude.
 
-1. ¶ Agaynſt anger out of the ſame Author.
+    _ ¶ Agaynſt vayne apparell, out of Lodouicus Viues.
 
-1. ¶ Of frendes, out of the ſame Author.
+    _ ¶ Agaynſt anger out of the ſame Author.
 
-1. Dulce bellum inexpertis.
+    _ ¶ Of frendes, out of the ſame Author.
 
-1. Or thus.
+    _ Dulce bellum inexpertis.
 
-1. That the riche and myghtie ſhould not hate the poore and lowly.
+    _ Or thus.
 
-1. Or thus.
+    _ That the riche and myghtie ſhould not hate the poore and lowly.
 
-1. ¶ Of formed fyllets and diſformed forheds.
+    _ Or thus.
 
-1. ¶ Sentences of the wyſe
+    _ ¶ Of formed fyllets and diſformed forheds.
 
-1. ¶ A deſcription of dignitie or true Nobleneſſe.
+    _ ¶ Sentences of the wyſe
 
-1. ¶ The anotomy or particular deſcription of a byrchē broome or beſome: In the compoſition or makyng wherof, are conteyned .iii. notable Iuſtices or purgers of vices.
+    _ ¶ A deſcription of dignitie or true Nobleneſſe.
 
-1. ¶ The deſcription & declaration of a monſtrous chyld, borne in the towne of Maydſton in the Countie of Rent, in the yeare of oure Saluation. 1561. the .xxix. daye of September, beynge Say•cte Mychaell the Archangels day, betwene two & thre of the clock in the mornyng,
+    _ ¶ The anotomy or particular deſcription of a byrchē broome or beſome: In the compoſition or makyng wherof, are conteyned .iii. notable Iuſtices or purgers of vices.
 
-1. ¶ An exhortation to al preachers of the Goſpell, that they ought to preache as well in workes as with wordes: if they wyll preache profitably, namely to the conuertiō of ſoules to the truthe.
+    _ ¶ The deſcription & declaration of a monſtrous chyld, borne in the towne of Maydſton in the Countie of Rent, in the yeare of oure Saluation. 1561. the .xxix. daye of September, beynge Say•cte Mychaell the Archangels day, betwene two & thre of the clock in the mornyng,
 
-1. ¶ Againſt y• diſſimulacion, craft, vn conſtācie, falſe dealing, gredy couetouſnes, vntemperate catynge and drynkyng,
+    _ ¶ An exhortation to al preachers of the Goſpell, that they ought to preache as well in workes as with wordes: if they wyll preache profitably, namely to the conuertiō of ſoules to the truthe.
+
+    _ ¶ Againſt y• diſſimulacion, craft, vn conſtācie, falſe dealing, gredy couetouſnes, vntemperate catynge and drynkyng,
 
 and incontinencie of an old man, and the cauſe why the author & others forſoke & refuſed the ſocietie of ſuche one.
 
-1. ¶ A ſong againſt the ſinful time wherin all thynges are out of order, and ſynne groweth nere vnto rypnes.
+    _ ¶ A ſong againſt the ſinful time wherin all thynges are out of order, and ſynne groweth nere vnto rypnes.
 
-1. ¶ A meruavlous dreame of the Author: Anno. 1561.
+    _ ¶ A meruavlous dreame of the Author: Anno. 1561.
 
-1. ¶ A Poeſis in ſorme of a Viſyon, briefly inueying againſt the moſt hate full and prodigious Ar•es of Necromancie, Wytchcraft, ſorcery, Incantations, and diuers other deteſtable & dyuely ſhe practiſ•s, dayly vſed vnder colour of Iudiciall Aſtrologie.
+    _ ¶ A Poeſis in ſorme of a Viſyon, briefly inueying againſt the moſt hate full and prodigious Ar•es of Necromancie, Wytchcraft, ſorcery, Incantations, and diuers other deteſtable & dyuely ſhe practiſ•s, dayly vſed vnder colour of Iudiciall Aſtrologie.
 
-1. ¶ A Ditie declaryng the riſyng and ſetting of the .xii. ſygnes of the zodiake: one always oppoſite and goyng down at the ſame inſtant that an other ryſeth.
+    _ ¶ A Ditie declaryng the riſyng and ſetting of the .xii. ſygnes of the zodiake: one always oppoſite and goyng down at the ſame inſtant that an other ryſeth.
 
-1. ¶ A Ditie made to the prayſe of God, by the Author, for a pacient to vſe after helth attayned, who contrary to all mens expectation, was in hys handes by the goodnes of God cured.
+    _ ¶ A Ditie made to the prayſe of God, by the Author, for a pacient to vſe after helth attayned, who contrary to all mens expectation, was in hys handes by the goodnes of God cured.
 
-1. ¶An other Ditie to the ſame purpoſe and vſe.
+    _ ¶An other Ditie to the ſame purpoſe and vſe.
 
-1. ¶ A ditie to be ſung of muſiciens in the mornyng, at theyr lord or maſters chamber doore, orels where of hym to be heard.
+    _ ¶ A ditie to be ſung of muſiciens in the mornyng, at theyr lord or maſters chamber doore, orels where of hym to be heard.
 
-1. ¶ A ditie to be ſung at nyght when men go to bed. Syng this as, In ſommer time when flowres gan ſpryng. &c.
+    _ ¶ A ditie to be ſung at nyght when men go to bed. Syng this as, In ſommer time when flowres gan ſpryng. &c.
 
-1. ¶ A ditie to be ſung at dyner tyme and meales.
+    _ ¶ A ditie to be ſung at dyner tyme and meales.
 
-1. ¶ An other to the ſame purpoſe.
+    _ ¶ An other to the ſame purpoſe.
 
-1. ¶ An other grace.
+    _ ¶ An other grace.
 
-1. ¶ A ſonnet inueyinge agaynſt the abuſes and pryde that reyg••th among vayne women.
+    _ ¶ A ſonnet inueyinge agaynſt the abuſes and pryde that reyg••th among vayne women.
 
-1. ¶ The complaynte of a certayne famous town for the death of an honeſt matron, wyfe to one of thinhabitantes of the ſame, wyth an anſwer to the ſayd complayn: & in fyne a generall prayſe of all honeſt & vertuous womē.
+    _ ¶ The complaynte of a certayne famous town for the death of an honeſt matron, wyfe to one of thinhabitantes of the ſame, wyth an anſwer to the ſayd complayn: & in fyne a generall prayſe of all honeſt & vertuous womē.
 
-1. ••nen authoris.
+    _ ••nen authoris.
 
-1. ¶ An exhortacion for vertuous men to perciſte in vertue and to prayſe Chriſt the authour of vertue, to whom be all honour and glory. Amē.
+    _ ¶ An exhortacion for vertuous men to perciſte in vertue and to prayſe Chriſt the authour of vertue, to whom be all honour and glory. Amē.
 
 #####Back#####
-[The courte of vertue.]Hall, John, b. 1529 or 30.1565Approx. 434 KB of XML-encoded text transcribed 
+
+1. ¶ A Table after the order of the Alphabete, directyng the Reader by ye number of the leafe to all Pſalmes, ſonges or ſonets &c. in thys Boke.
+
 **Types of content**
 
   * There are 9102 **verse** lines!
